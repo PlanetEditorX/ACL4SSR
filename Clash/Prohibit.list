@@ -5,7 +5,4 @@ DOMAIN,dc.services.visualstudio.com
 DOMAIN-SUFFIX,api.simpleallowcopy.com
 DOMAIN-SUFFIX,lzzncm.com
 
-# IP匹配
-IP-CIDR,117.209.95.242/32,no-resolve
-IP-CIDR,117.216.27.39/32,no-resolve
-IP-CIDR,103.41.167.234/32,no-resolve
+DOMAIN-SUFFIX,zhihu.com
